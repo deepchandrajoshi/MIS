@@ -1,35 +1,51 @@
 # MIS Resource Center
 
-A collection of Excel, MIS, SQL, Power BI and Data Analyst learning resources.
+A practical collection of resources for MIS, Excel, SQL, Power BI and Data Analytics.
 
-## Resources
+## 📊 Excel Resources
 
-### 📊 Excel
-- Excel formulas
-- Excel practice data
-- Office 365 formulas
-- MIS Excel resources
+- 31 Powerful Excel Formulas
+- Excel Office 365 Formulas
+- Excel Practice Data
+- Excel Practice Workbooks
 
-### 📚 HelpSheets
+## 📚 HelpSheets
+
 - All Prompts
 - Dashboard Prompt
 - Excel AI All Prompt PDF
 
-### 🗄️ SQL
-SQL practice files and resources.
+## 🗄️ SQL
 
-### 📈 Power BI
-Power BI dashboards and learning resources.
+SQL practice files and learning resources.
 
-### 🚀 Projects
+## 📈 Power BI
+
+Power BI dashboards, reports and learning resources.
+
+## 🚀 Projects
+
 MIS and Data Analyst projects.
 
-## Website
+## 🌐 Website
 
-The resources are available through the GitHub Pages website.
+The repository includes a GitHub Pages website for easy access to the resources.
 
-## Created By
+## 👨‍💻 About
 
-**Deep Chandra Joshi**
+Created by **Deep Chandra Joshi**
 
 MIS / Data Analyst Aspirant
+
+### Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- Data Analysis
+- MIS Reporting
+
+---
+
+⭐ This repository is continuously updated with new learning resources and projects.
