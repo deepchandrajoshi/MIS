@@ -1,0 +1,33 @@
+PROJECT BUILD GUIDE
+
+PHASE 1 — DATA
+1. Review all five CSV files.
+2. Check duplicates, nulls, invalid dates, negative quantities and inconsistent master IDs.
+3. Record data-quality issues and fixes.
+
+PHASE 2 — EXCEL
+1. Import data with Power Query.
+2. Merge Sales with Customers, Products and Salespersons.
+3. Add Month, Quarter, Year, Net Revenue and Profit Margin.
+4. Create PivotTables for management KPIs.
+5. Build a dashboard with KPI cards, trends, regional/category charts, top 10 products/customers and Actual vs Target.
+6. Add slicers.
+
+PHASE 3 — SQL
+1. Run 01_Create_Tables.sql.
+2. Import CSV data into SQL.
+3. Run 02_Analysis_Queries.sql.
+4. Create at least 20 additional queries yourself using JOIN, CASE, CTE, subqueries and window functions.
+
+PHASE 4 — BUSINESS INSIGHTS
+Write at least 10 findings. Each finding should have:
+Finding → Evidence → Business Impact → Recommendation.
+
+PHASE 5 — PORTFOLIO
+Take screenshots of:
+- Excel dashboard
+- Power Query steps
+- SQL queries/results
+- Data model
+- Final insights
+Then add them to GitHub.

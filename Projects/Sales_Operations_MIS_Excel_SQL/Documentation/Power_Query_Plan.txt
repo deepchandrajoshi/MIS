@@ -1,0 +1,23 @@
+POWER QUERY TRANSFORMATION PLAN
+
+1. Get Data > From Folder and point to Dataset folder.
+2. Combine Sales_Transactions_50000.csv files if monthly files are later added.
+3. Set correct data types:
+   Order_ID = Text
+   Order_Date = Date
+   Quantity = Whole Number
+   Unit_Price, Revenue, Cost, Profit = Decimal Number
+   Discount = Percentage
+4. Remove duplicate Order_ID values.
+5. Filter invalid/null Order_Date and Product_ID.
+6. Merge Sales with Customer_Master on Customer_ID.
+7. Merge Sales with Product_Master on Product_ID.
+8. Merge Sales with Salesperson_Master on Salesperson_ID.
+9. Expand only required attributes.
+10. Add calculated columns:
+    Gross Sales = Quantity * Unit_Price
+    Net Revenue = Gross Sales * (1 - Discount)
+    Profit Margin = Profit / Revenue
+11. Add Month Start using Date.StartOfMonth(Order_Date).
+12. Load the final query to the Data Model/worksheet.
+13. Build PivotTables and PivotCharts from the cleaned model.

@@ -1,0 +1,49 @@
+Product_ID,Product_Name,Category,Sub_Category,Brand,Standard_Cost,Selling_Price
+P1001,Laptops Pro 1,Electronics,Laptops,Orion,11600.61,19999.0
+P1002,Laptops Basic 2,Electronics,Laptops,Vertex,763.39,1299.0
+P1003,Laptops Basic 3,Electronics,Laptops,Vertex,8630.28,12999.0
+P1004,Laptops Basic 4,Electronics,Laptops,Orion,796.05,1299.0
+P1005,Mobiles Elite 1,Electronics,Mobiles,Orion,21763.34,29999.0
+P1006,Mobiles Basic 2,Electronics,Mobiles,Aster,4253.9,5999.0
+P1007,Mobiles Pro 3,Electronics,Mobiles,Aster,19922.51,29999.0
+P1008,Mobiles Pro 4,Electronics,Mobiles,Vertex,1050.17,1299.0
+P1009,Accessories Pro 1,Electronics,Accessories,UrbanEdge,521.41,799.0
+P1010,Accessories Basic 2,Electronics,Accessories,Maxwell,8077.85,12999.0
+P1011,Accessories Elite 3,Electronics,Accessories,Vertex,5252.74,8999.0
+P1012,Accessories Pro 4,Electronics,Accessories,Orion,5661.79,8999.0
+P1013,Furniture Plus 1,Home,Furniture,Prime,17062.83,29999.0
+P1014,Furniture Basic 2,Home,Furniture,Zenith,623.97,799.0
+P1015,Furniture Pro 3,Home,Furniture,Aster,1075.2,1599.0
+P1016,Furniture Pro 4,Home,Furniture,Vertex,1614.16,2499.0
+P1017,Kitchen Plus 1,Home,Kitchen,Aster,9378.05,12999.0
+P1018,Kitchen Plus 2,Home,Kitchen,UrbanEdge,3914.07,5999.0
+P1019,Kitchen Basic 3,Home,Kitchen,UrbanEdge,305.31,499.0
+P1020,Kitchen Plus 4,Home,Kitchen,UrbanEdge,2488.54,3999.0
+P1021,Storage Elite 1,Home,Storage,Maxwell,944.33,1299.0
+P1022,Storage Plus 2,Home,Storage,Prime,620.9,999.0
+P1023,Storage Elite 3,Home,Storage,UrbanEdge,21234.44,29999.0
+P1024,Storage Plus 4,Home,Storage,Maxwell,1064.24,1299.0
+P1025,Men Basic 1,Fashion,Men,Aster,602.49,799.0
+P1026,Men Elite 2,Fashion,Men,Vertex,11863.31,19999.0
+P1027,Men Elite 3,Fashion,Men,Prime,2611.5,3999.0
+P1028,Men Basic 4,Fashion,Men,Vertex,7040.91,8999.0
+P1029,Women Pro 1,Fashion,Women,UrbanEdge,15777.07,19999.0
+P1030,Women Plus 2,Fashion,Women,Maxwell,502.77,799.0
+P1031,Women Pro 3,Fashion,Women,Aster,402.96,499.0
+P1032,Women Pro 4,Fashion,Women,Orion,7166.89,8999.0
+P1033,Footwear Plus 1,Fashion,Footwear,Nova,650.31,999.0
+P1034,Footwear Basic 2,Fashion,Footwear,Vertex,8287.15,12999.0
+P1035,Footwear Pro 3,Fashion,Footwear,Orion,1967.35,2499.0
+P1036,Footwear Basic 4,Fashion,Footwear,Vertex,306.9,499.0
+P1037,Stationery Basic 1,Office,Stationery,Aster,20435.84,29999.0
+P1038,Stationery Plus 2,Office,Stationery,Prime,727.4,999.0
+P1039,Stationery Elite 3,Office,Stationery,Orion,7069.23,8999.0
+P1040,Stationery Plus 4,Office,Stationery,Prime,6784.54,8999.0
+P1041,Printers Pro 1,Office,Printers,Maxwell,3273.94,3999.0
+P1042,Printers Plus 2,Office,Printers,Orion,6046.44,8999.0
+P1043,Printers Plus 3,Office,Printers,Orion,512.39,799.0
+P1044,Printers Basic 4,Office,Printers,Orion,284.01,499.0
+P1045,Office Equipment Pro 1,Office,Office Equipment,Vertex,634.78,799.0
+P1046,Office Equipment Elite 2,Office,Office Equipment,Orion,5527.74,8999.0
+P1047,Office Equipment Elite 3,Office,Office Equipment,Orion,5270.93,8999.0
+P1048,Office Equipment Plus 4,Office,Office Equipment,Vertex,4607.38,5999.0
